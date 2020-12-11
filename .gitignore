@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+.DS_Store
+Spectre/.DS_Store
+Spectre/src/.DS_Store
+Spectre/src/.MemSpeed.c.swo
+Spectre/src/.MemSpeed.c.swp
